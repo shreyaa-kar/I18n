@@ -1,0 +1,22 @@
+{
+    "en": {
+        "welcomeMessage": "Hello Everyone!",
+        "normalMessage": "Its a lovely day today!",
+        "endMessage":"I feel great too!",
+        "usersStatmessage":"Its good to talk to you guys!"
+    },
+
+    "hi": {
+        "welcomeMessage": "सभी को नमस्कार!",
+        "normalMessage": "आज बहुत प्यारा दिन है!",
+        "endMessage":"मुझे भी बहुत अच्छा लग रहा है!",
+        "usersStatmessage":"आप लोगों से बात करके अच्छा लगा!"
+    },
+
+    "mr": {
+        "welcomeMessage":"सर्वांना नमस्कार!",
+        "normalMessage":"आजचा दिवस छान आहे!",
+        "endMessage":"मला पण छान वाटतंय!",
+        "usersStatmessage":"तुमच्याशी बोलणे चांगले आहे!"
+    }
+}
